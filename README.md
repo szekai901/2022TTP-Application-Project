@@ -116,6 +116,7 @@ Your site needs to implement all user stories and meet the UI/UX criteria. There
 - Can we give an HTML element a CSS class that is styled to make itself hidden?
 - Can we create an extra class that would make the same element visible?
 - How can we use DOM events and JavaScript to add and remove classes from elements?
+- Creating a menu dropdown in mobile view but not in desktop view?
 
   **JS based approach**
 
